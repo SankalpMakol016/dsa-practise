@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 ## Union-Find
@@ -62,9 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
