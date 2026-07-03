@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
