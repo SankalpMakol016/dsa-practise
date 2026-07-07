@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SankalpMakol016/dsa-practise/tree/master/0007-reverse-integer) |
+| [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -100,4 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
+| [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
