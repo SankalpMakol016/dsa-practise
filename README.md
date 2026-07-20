@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/SankalpMakol016/dsa-practise/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/SankalpMakol016/dsa-practise/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SankalpMakol016/dsa-practise/tree/master/1978-employees-whose-manager-left-the-company) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
