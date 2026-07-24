@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/SankalpMakol016/dsa-practise/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/SankalpMakol016/dsa-practise/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SankalpMakol016/dsa-practise/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3475-dna-pattern-recognition](https://github.com/SankalpMakol016/dsa-practise/tree/master/3475-dna-pattern-recognition) |
 ## Simulation
 |  |
 | ------- |
