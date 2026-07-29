@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SankalpMakol016/dsa-practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SankalpMakol016/dsa-practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SankalpMakol016/dsa-practise/tree/master/0785-is-graph-bipartite) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SankalpMakol016/dsa-practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SankalpMakol016/dsa-practise/tree/master/0785-is-graph-bipartite) |
@@ -96,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SankalpMakol016/dsa-practise/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/SankalpMakol016/dsa-practise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SankalpMakol016/dsa-practise/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -151,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
