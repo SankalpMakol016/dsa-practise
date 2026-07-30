@@ -238,4 +238,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SankalpMakol016/dsa-practise/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SankalpMakol016/dsa-practise/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SankalpMakol016/dsa-practise/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
