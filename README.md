@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SankalpMakol016/dsa-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SankalpMakol016/dsa-practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SankalpMakol016/dsa-practise/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
