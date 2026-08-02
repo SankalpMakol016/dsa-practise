@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SankalpMakol016/dsa-practise/tree/master/0007-reverse-integer) |
+| [0319-bulb-switcher](https://github.com/SankalpMakol016/dsa-practise/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
 ## Array
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/SankalpMakol016/dsa-practise/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
