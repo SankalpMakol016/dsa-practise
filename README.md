@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/SankalpMakol016/dsa-practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SankalpMakol016/dsa-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SankalpMakol016/dsa-practise/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -310,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SankalpMakol016/dsa-practise/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
