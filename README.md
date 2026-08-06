@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SankalpMakol016/dsa-practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SankalpMakol016/dsa-practise/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SankalpMakol016/dsa-practise/tree/master/0860-lemonade-change) |
