@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SankalpMakol016/dsa-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0503-next-greater-element-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
+| [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 ## Binary Search
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0633-sum-of-square-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
@@ -64,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
+| [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 ## Linked List
