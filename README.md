@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/SankalpMakol016/dsa-practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0503-next-greater-element-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/SankalpMakol016/dsa-practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 ## Linked List
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/SankalpMakol016/dsa-practise/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SankalpMakol016/dsa-practise/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/SankalpMakol016/dsa-practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/SankalpMakol016/dsa-practise/tree/master/0860-lemonade-change) |
