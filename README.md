@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SankalpMakol016/dsa-practise/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SankalpMakol016/dsa-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SankalpMakol016/dsa-practise/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SankalpMakol016/dsa-practise/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SankalpMakol016/dsa-practise/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
