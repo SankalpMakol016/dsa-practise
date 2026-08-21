@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SankalpMakol016/dsa-practise/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SankalpMakol016/dsa-practise/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
