@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/SankalpMakol016/dsa-practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SankalpMakol016/dsa-practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/SankalpMakol016/dsa-practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SankalpMakol016/dsa-practise/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
