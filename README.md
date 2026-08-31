@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0633-sum-of-square-numbers) |
+| [1768-merge-strings-alternately](https://github.com/SankalpMakol016/dsa-practise/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SankalpMakol016/dsa-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
+| [1768-merge-strings-alternately](https://github.com/SankalpMakol016/dsa-practise/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
