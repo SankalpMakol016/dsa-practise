@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SankalpMakol016/dsa-practise/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SankalpMakol016/dsa-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/SankalpMakol016/dsa-practise/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
