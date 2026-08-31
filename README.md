@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SankalpMakol016/dsa-practise/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SankalpMakol016/dsa-practise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
+| [0334-increasing-triplet-subsequence](https://github.com/SankalpMakol016/dsa-practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/SankalpMakol016/dsa-practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SankalpMakol016/dsa-practise/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/SankalpMakol016/dsa-practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/SankalpMakol016/dsa-practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SankalpMakol016/dsa-practise/tree/master/0455-assign-cookies) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SankalpMakol016/dsa-practise/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/SankalpMakol016/dsa-practise/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
