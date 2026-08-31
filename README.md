@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SankalpMakol016/dsa-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SankalpMakol016/dsa-practise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SankalpMakol016/dsa-practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/SankalpMakol016/dsa-practise/tree/master/2104-sum-of-subarray-ranges) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/SankalpMakol016/dsa-practise/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SankalpMakol016/dsa-practise/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SankalpMakol016/dsa-practise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SankalpMakol016/dsa-practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Brainteaser
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SankalpMakol016/dsa-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SankalpMakol016/dsa-practise/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SankalpMakol016/dsa-practise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Queue
 |  |
 | ------- |
