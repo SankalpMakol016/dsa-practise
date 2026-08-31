@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/SankalpMakol016/dsa-practise/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SankalpMakol016/dsa-practise/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SankalpMakol016/dsa-practise/tree/master/0735-asteroid-collision) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SankalpMakol016/dsa-practise/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
