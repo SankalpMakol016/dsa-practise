@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/SankalpMakol016/dsa-practise/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SankalpMakol016/dsa-practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/SankalpMakol016/dsa-practise/tree/master/2104-sum-of-subarray-ranges) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SankalpMakol016/dsa-practise/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
