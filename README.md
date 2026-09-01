@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SankalpMakol016/dsa-practise/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SankalpMakol016/dsa-practise/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SankalpMakol016/dsa-practise/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/SankalpMakol016/dsa-practise/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SankalpMakol016/dsa-practise/tree/master/0451-sort-characters-by-frequency) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SankalpMakol016/dsa-practise/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/SankalpMakol016/dsa-practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SankalpMakol016/dsa-practise/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SankalpMakol016/dsa-practise/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SankalpMakol016/dsa-practise/tree/master/0503-next-greater-element-ii) |
