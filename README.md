@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/SankalpMakol016/dsa-practise/tree/master/0721-accounts-merge) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SankalpMakol016/dsa-practise/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SankalpMakol016/dsa-practise/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/SankalpMakol016/dsa-practise/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SankalpMakol016/dsa-practise/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SankalpMakol016/dsa-practise/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SankalpMakol016/dsa-practise/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/SankalpMakol016/dsa-practise/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
