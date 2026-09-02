@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SankalpMakol016/dsa-practise/tree/master/1025-divisor-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/SankalpMakol016/dsa-practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/SankalpMakol016/dsa-practise/tree/master/2104-sum-of-subarray-ranges) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SankalpMakol016/dsa-practise/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SankalpMakol016/dsa-practise/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
