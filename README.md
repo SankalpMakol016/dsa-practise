@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0633-sum-of-square-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SankalpMakol016/dsa-practise/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/SankalpMakol016/dsa-practise/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SankalpMakol016/dsa-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SankalpMakol016/dsa-practise/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SankalpMakol016/dsa-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SankalpMakol016/dsa-practise/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SankalpMakol016/dsa-practise/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/SankalpMakol016/dsa-practise/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SankalpMakol016/dsa-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
