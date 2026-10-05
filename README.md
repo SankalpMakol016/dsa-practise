@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SankalpMakol016/dsa-practise/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SankalpMakol016/dsa-practise/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/SankalpMakol016/dsa-practise/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/SankalpMakol016/dsa-practise/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/SankalpMakol016/dsa-practise/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SankalpMakol016/dsa-practise/tree/master/0205-isomorphic-strings) |
